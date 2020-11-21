@@ -1,0 +1,7 @@
+1)Go to google chrome
+2)open more setting
+3)go to extension option (Make sure that developer mode is on)
+4)go to load unpacked
+5)select src folder
+6)now run google meet
+7)press on extension icon and run it
